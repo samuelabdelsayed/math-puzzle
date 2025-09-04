@@ -2,6 +2,8 @@
 
 A geometric puzzle that presents a visual math problem with colored triangular sections within a perfect square. The puzzle asks viewers to determine the area of the blue region using information from the other colored areas.
 
+![Math Puzzle Diagram](public/images/math-puzzle.svg)
+
 ## Features
 
 - Clean, educational geometric visualization
