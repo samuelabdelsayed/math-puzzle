@@ -1,8 +1,6 @@
-import React from 'react';
 import { GeometricDiagram } from './components/GeometricDiagram';
 
 export function App() {
-
   return (
     <div className="container">
       <header>
